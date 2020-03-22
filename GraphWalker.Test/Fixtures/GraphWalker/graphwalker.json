@@ -1,0 +1,44 @@
+{
+  "Age": 25,
+  "Name": "Jack",
+  "Dogs": [
+    {
+      "CanBark": true,
+      "Height": 35,
+      "Name": "Medor",
+      "Places": [
+        {
+          "Lat": 22.5,
+          "Long": 12.4
+        },
+        {
+          "Lat": 20.4,
+          "Long": 10.3
+        }
+      ]
+    },
+    {
+      "CanBark": false,
+      "Height": 21,
+      "Name": "Junior",
+      "Places": [
+        {
+          "Lat": 12.5,
+          "Long": 10.9
+        },
+        {
+          "Lat": 10.4,
+          "Long": 10.3
+        },
+        {
+          "Lat": 12.5,
+          "Long": 12.4
+        },
+        {
+          "Lat": 10.2,
+          "Long": 8.4
+        }
+      ]
+    }
+  ]
+}
